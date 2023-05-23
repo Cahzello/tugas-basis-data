@@ -1,3 +1,3 @@
 # tugas-basis-data
 
-<img src="ganisa.jpg">
+<img src="gamisa.jpg">
