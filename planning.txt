@@ -1,0 +1,7 @@
+Rencana Project
+
+- membuat databse sekolah (DONE)
+- Membuat halaman dashboard
+- Membuat halaman profile
+- Membuat halaman spp
+- Membuat halaman pembayaran spp
